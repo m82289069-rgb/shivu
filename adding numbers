@@ -1,0 +1,5 @@
+#add number 
+x=5
+y=5
+add=x+y
+print("addding x and y number ",add)
